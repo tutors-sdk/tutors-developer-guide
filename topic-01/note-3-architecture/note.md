@@ -1,6 +1,7 @@
 ---
 icon:
   type: flat-color-icons:library
+  order: 4  
 ---
 
 Tutors Architecture

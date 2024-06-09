@@ -1,6 +1,7 @@
 ---
 icon:
   type: flat-color-icons:entering-heaven-alive
+  order: 1
 ---
 
 # Introduction
