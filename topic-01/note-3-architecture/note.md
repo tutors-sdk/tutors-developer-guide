@@ -1,12 +1,14 @@
 ---
 icon:
-  type: flat-color-icons:entering-heaven-alive
-  order: 1
+  type: flat-color-icons:library
+order: 4  
 ---
 
-# Introduction
+Tutors Architecture
 
-What is tutors.
+A tour of the Tutors Reader source
+
+[[toc]]
 
 Tutors is a collection of open source components and services supporting the creation of transformative learning experiences using open web standards. It consists of two key components:
 

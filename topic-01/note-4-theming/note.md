@@ -1,7 +1,7 @@
 ---
 icon:
   type: flat-color-icons:slr-back-side
-  order: 5  
+order: 5  
 ---
 
 Theming

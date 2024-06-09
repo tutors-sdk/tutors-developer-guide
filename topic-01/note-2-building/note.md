@@ -1,7 +1,7 @@
 ---
 icon:
   type: flat-color-icons:flow-chart
-  order: 3  
+order: 3  
 ---
 
 Rebuilding Tutors
