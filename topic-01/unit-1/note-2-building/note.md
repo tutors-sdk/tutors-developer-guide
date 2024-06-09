@@ -3,7 +3,7 @@ icon:
   type: flat-color-icons:flow-chart
 ---
 
-Rebuilding Tutors
+# Rebuilding Tutors
 
 Install and rebuild the tutors reader
 
@@ -54,7 +54,7 @@ The 'source' for the above course is here:
 
 - https://github.com/tutors-sdk/tutors-reference-course
 
-You could try any of the other sample courses below. For example this course:
+You could try any of the other sample courses, for instance this one here:
 
 - https://tutors.dev/course/full-stack-1-2023
 

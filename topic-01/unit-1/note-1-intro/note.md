@@ -19,10 +19,6 @@ Please see the [Tutors Reference Manual](https://tutors.dev/course/tutors-refere
 
 ### Example Tutors Courses
 
-A suite of open source courses that focus on web development:
-
-- [Full Stack Development](https://github.com/wit-hdip-comp-sci-2023/full-stack-1)
-
 This is a selected Course Gallery:
 
 - [Gallery of Tutors Courses](https://tutors.dev/gallery)
