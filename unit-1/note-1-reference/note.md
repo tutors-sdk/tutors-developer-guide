@@ -12,6 +12,29 @@ These components are [developed in the open](https://github.com/tutors-sdk/tutor
 
 Please see the [Tutors Reference Manual](https://tutors.dev/course/tutors-reference-manual) for guidance on creating and publishing tutors courses.
 
+### Example Tutors Courses
+
+A suite of open source courses that focus on web development:
+
+- [Full Stack Development](https://github.com/wit-hdip-comp-sci-2023/full-stack-1)
+
+This is a selected Course Gallery:
+
+- [Gallery of Tutors Courses](https://tutors.dev/gallery)
+
+Some courses of interest:
+
+- [Higher Diploma in Computer Science Portal](https://tutors.dev/course/wit-hdip-comp-sci-showcase)
+- [Full Stack Development](https://tutors.dev/course/full-stack-web-dev-oth-2022)
+- [Data Analytics](https://tutors.dev/course/data-analytics-essentials)
+- [Reference Course](https://tutors.dev/course/reference-course)
+- [Higher Diploma in Computer Science at SETU: 2020-2022](https://tutors.dev/course/wit-hdip-comp-sci-2020)
+- [Classic Design Patterns](https://tutors.dev/course/classic-design-patterns)
+- [Agile Software Development](https://tutors.dev/course/agile-2023)
+- [Technologische Fähigkeiten](https://tutors.dev/course/zusatzstudium-digital-skills-semester1)
+
+Note: Some courses will request you authenticate via github for access.
+
 ## The Tutors Reader
 
 The Tutors Reader is a SvelteKit application which presents a tutors module in an attractive, intuitive and discoverable user experience. The application is build from a single repository:
@@ -75,30 +98,9 @@ can be opened by this local reader like this:
 
 - https://localhost:3000/course/full-stack-1-2023
 
-### Example Tutors Courses
+## Deploying the Reader
 
-A suite of open source courses that focus on web development:
-
-- [Full Stack Development](https://github.com/wit-hdip-comp-sci-2023/full-stack-1)
-
-This is a selected Course Gallery:
-
-- [Gallery of Tutors Courses](https://tutors.dev/gallery)
-
-Some courses of interest:
-
-- [Higher Diploma in Computer Science Portal](https://tutors.dev/course/wit-hdip-comp-sci-showcase)
-- [Full Stack Development](https://tutors.dev/course/full-stack-web-dev-oth-2022)
-- [Data Analytics](https://tutors.dev/course/data-analytics-essentials)
-- [Reference Course](https://tutors.dev/course/reference-course)
-- [Higher Diploma in Computer Science at SETU: 2020-2022](https://tutors.dev/course/wit-hdip-comp-sci-2020)
-- [Classic Design Patterns](https://tutors.dev/course/classic-design-patterns)
-- [Agile Software Development](https://tutors.dev/course/agile-2023)
-- [Technologische Fähigkeiten](https://tutors.dev/course/zusatzstudium-digital-skills-semester1)
-
-Note: Some courses will request you authenticate via github for access.
-
-### Designing a new Theme
+# Designing a new Theme
 
 ## The Tutors Generators
 
