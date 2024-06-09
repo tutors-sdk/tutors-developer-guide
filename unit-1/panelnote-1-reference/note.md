@@ -53,7 +53,7 @@ This should launch the application:
 
 Now the app is up and running and you can browse to it by opening the <a href="http://localhost:3000/">local location</a> in your browser.
 
-The Tutors reader relies on a segment of the url to locate the course to display. Any of the [samples below]((#example-tutors-courses)) can be 'read' with an appropriate url segments appended to the local url you now have running. So for instance:
+The Tutors reader relies on a segment of the url to locate the course to display. Any of the samples below can be 'read' with an appropriate url segments appended to the local url you now have running. So for instance:
 
 - <https://tutors.dev/course/reference-course>
 
@@ -67,17 +67,17 @@ The 'source' for the above course is here:
 
 - https://github.com/tutors-sdk/tutors-reference-course
 
-You could try any of the other sample courses above. For example this course:
+You could try any of the other sample courses below. For example this course:
 
-- https://tutors.dev/course/full-stack-web-dev-oth-2022
+- https://tutors.dev/course/full-stack-1-2023
 
 can be opened by this local reader like this:
 
-- https://localhost:3000/course/full-stack-web-dev-oth-2022
+- https://localhost:3000/course/full-stack-1-2023
 
 ### Example Tutors Courses
 
-This is an example of an open source course:
+A suite of open source courses that focus on web development:
 
 - [Full Stack Development](https://github.com/wit-hdip-comp-sci-2023/full-stack-1)
 
