@@ -1,6 +1,11 @@
-Tutors
+---
+icon:
+  type: flat-color-icons:slr-back-side
+---
 
-What is tutors
+Theming
+
+Creating & deplpying a new Tutors Theme
 
 [[toc]]
 

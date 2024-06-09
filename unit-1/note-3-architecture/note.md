@@ -1,6 +1,11 @@
-Tutors
+---
+icon:
+  type: flat-color-icons:library
+---
 
-What is tutors
+Tutors Architecture
+
+A tour of the Tutors Reader source
 
 [[toc]]
 
