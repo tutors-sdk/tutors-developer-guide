@@ -18,9 +18,7 @@ The top level perspective the application is structure these top level component
 
 ![](https://tutors.dev/design/top-level.png)
 
-This is mirrored precisely in the source folder structure:
-
-![](img/repo.png)
+### Lib
 
 The Tutors Lib components consists of two sub systems:
 
@@ -29,7 +27,36 @@ The Tutors Lib components consists of two sub systems:
 
 ![](https://tutors.dev/design/main-modules.png)
 
-Looking deep
+### Lib/Services
+
+The Services package defines three packages:
+
+- Types: core types use through the tutors applications
+- Utils: a set of utility functions supporting these types
+- Models: Core model objects: Course, Analytics & Presence
+
+![](img/services.png)
+
+### Lib/UI
+
+The UI package encapsulate families of UI components, in 4 top level packages:
+
+- App-shells: application window layouts
+
+- navigators: headers menus and sidebars
+
+- time: Tutors Time components
+
+- Learning-objects: Core learning object representation
+
+- themes: The Tutors Reader Themes
+
+
+![](img/ui.png)
+
+### Lib/UI Detail
+
+![](img/ui-packages.png)
 
 ![](https://tutors.dev/design/module-detail.png)
 
